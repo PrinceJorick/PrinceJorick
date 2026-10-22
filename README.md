@@ -22,7 +22,7 @@ based         Batangas, Philippines
 **[ParaPo](https://github.com/x1lde/ParaPo)**  
 `TypeScript · React Native · Expo · MapLibre · SQLite · TensorFlow Lite`
 
-**[ChatSked]**  
+**ChatSked**  
 `TypeScript · Next.js · React · Tailwind CSS · NestJS · Prisma · PostgreSQL · Redis`
 
 ### / stack
@@ -31,10 +31,9 @@ based         Batangas, Philippines
 
 ### / stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=PrinceJorick&show_icons=false&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceJorick&layout=compact&hide_border=true&theme=transparent" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=PrinceJorick&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7aa2f7&text_color=9aa5b1&icon_color=7aa2f7" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceJorick&layout=compact&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=9aa5b1" />
+<img src="https://streak-stats.demolab.com?user=PrinceJorick&hide_border=true&theme=transparent" />
 
 ---
 
