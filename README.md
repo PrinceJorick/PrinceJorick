@@ -24,9 +24,9 @@ CS50x ✓ · AppBuildersPH Hackathon '26 · daily-driving CachyOS + Hyprland
 
 ### ~/projects
 
-
-| **[LYRA](https://github.com/PrinceJorick/LYRA)**                           | sEMG + IMU skin-patch wearable and caregiver app for epilepsy (prototype)                                                                                                    | `ESP32-S3` `ML`                           |
+| Project / Repository                                                       | What it does                                                                                                                                                                 | Built with                                |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **[LYRA](https://github.com/PrinceJorick/LYRA)**                           | sEMG + IMU skin-patch wearable and caregiver app for epilepsy (prototype)                                                                                                    | `ESP32-S3` `ML`                           |
 | **[BIYAHE](https://github.com/PrinceJorick/BIYAHE)**                       | Offline-ready PWA for safer trips home: live ETAs, flood-delay advice, safe spots on a map — Top 4, CS Bootcamp                                                              | `React` `TypeScript` `PWA` `Leaflet`      |
 | **[Simula](https://simula-itc.vercel.app)**                                | Resume builder, interview flashcards and pre-employment checklist for Filipino students — CC 100 final project ([source](https://github.com/PrinceJorick/itc-final-project)) | `HTML` `CSS` `JS` `Playwright`            |
 | **[ParaPo](https://github.com/x1lde/ParaPo)**                              | Offline commuter app for local public transport with on-device ML — AppBuildersPH Hackathon '26                                                                              | `React Native` `Expo` `MapLibre` `TFLite` |
