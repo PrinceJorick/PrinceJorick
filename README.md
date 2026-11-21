@@ -1,4 +1,3 @@
-
 <h1 align="center">PJ/</h1>
 
 <p align="center">
@@ -22,15 +21,42 @@ pj@batangas:~$ cat log.txt
 CS50x ✓ · AppBuildersPH Hackathon '26 · daily-driving Linux (Hyprland)
 ```
 
-### ~/projects
+### Popular repositories
 
-| Project / Repository | What it does | Built with |
-|---|---|---|
-| **[LYRA](https://github.com/PrinceJorick/LYRA)** | sEMG + IMU skin-patch wearable and caregiver app for epilepsy (prototype) | `ESP32-S3` `ML` |
-| **[BIYAHE](https://github.com/PrinceJorick/BIYAHE)** | Offline-ready PWA for safer trips home: live ETAs, flood-delay advice, safe spots on a map — Top 4, CS Bootcamp | `React` `TypeScript` `PWA` `Leaflet` |
-| **[Simula](https://simula-itc.vercel.app)** | Resume builder, interview flashcards and pre-employment checklist for Filipino students — CC 100 final project ([source](https://github.com/PrinceJorick/itc-final-project)) | `HTML` `CSS` `JS` `Playwright` |
-| **[ParaPo](https://github.com/x1lde/ParaPo)** | Offline commuter app for local public transport with on-device ML — AppBuildersPH Hackathon '26 | `React Native` `Expo` `MapLibre` `TFLite` |
-| **[FSH Lab Scheduler](https://github.com/PrinceJorick/fsh_lab_scheduler)** | Lab reservations with live occupancy — SHS capstone, project lead | `JS` `FastAPI` `Supabase Realtime` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/PrinceJorick/LYRA">LYRA</a> <code>Public</code></h4>
+      sEMG + IMU skin-patch wearable and caregiver app for epilepsy (prototype)<br/><br/>
+      🐍 Python · <code>ESP32-S3</code> <code>ML</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/PrinceJorick/BIYAHE">BIYAHE</a> <code>Public</code></h4>
+      Offline-ready PWA for safer trips home: live ETAs, flood-delay advice, safe spots on a map. Top 4, CS Bootcamp<br/><br/>
+      🔵 TypeScript · <code>React</code> <code>PWA</code> <code>Leaflet</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://simula-itc.vercel.app">Simula</a> <code>Public</code></h4>
+      Resume builder, interview flashcards and pre-employment checklist for Filipino students. CC 100 final project (<a href="https://github.com/PrinceJorick/itc-final-project">source</a>)<br/><br/>
+      🟡 JavaScript · <code>HTML</code> <code>CSS</code> <code>Playwright</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/x1lde/ParaPo">ParaPo</a> <code>Public</code></h4>
+      Offline commuter app for local public transport with on-device ML. AppBuildersPH Hackathon '26<br/><br/>
+      🔵 TypeScript · <code>React Native</code> <code>Expo</code> <code>MapLibre</code> <code>TFLite</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/PrinceJorick/fsh_lab_scheduler">FSH Lab Scheduler</a> <code>Public</code></h4>
+      Lab reservations with live occupancy. SHS capstone, project lead<br/><br/>
+      🟡 JavaScript · <code>FastAPI</code> <code>Supabase Realtime</code>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ### ~/stack
 
